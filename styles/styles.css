@@ -48,10 +48,35 @@ footer p{
     text-align: center;
     color: white;
 }
-.product{
-    text-align: center;
-    border: 5px solid black;
-    margin: 10px;
-    padding-right: 15px;
-    padding-left: 15px;
+.whiteborder
+{
+    width: 30%;
+    height: 500 px;
+    margin: auto;
+    overflow: hidden;
+    background: white;
+    padding: 20px;
+    box-shadow: 0px 0px 10px gray;
+    display: block;
+    margin-bottom: 20px;
+
+}
+.logo
+{
+    float:left; 
+    margin-right: 10px; 
+    border: 2px solid black; 
+    border-radius: 20px;
+
+}
+.imgs
+{
+    width: 70%; 
+    height: 70%;
+    margin-left: 5%;
+    display: block;
+    border: 10px solid rgb(0, 47, 0); 
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
 }
